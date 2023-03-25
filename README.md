@@ -3,7 +3,7 @@
 Clone this project:
 
 ```shell
-git clone https://github.com/aasulaim/GazeTracking.git
+git clone https://github.com/aasulaim/EEC136AB-Winter2022-Golf-Attention-Monitoring.git
 ```
 
 ### For Pip install
